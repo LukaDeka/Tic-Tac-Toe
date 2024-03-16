@@ -1,5 +1,5 @@
-# Tic-Tac-Toe
-Small Tic-Tac-Toe game with an option to play *singleplayer* against a computer,
+# Tic-Tac-Toe (CLI)
+Small CLI Tic-Tac-Toe game with an option to play *singleplayer* against a computer,
 or *two-player* against a friend.
 
 **Type "make main" to compile**
